@@ -8,7 +8,7 @@ export default function Home() {
     <main>
         <div className="flex pb-60 items-center h-screen">
 
-          <div className="container items-center flex flex-col space-y-6 p-8 max-w-md rounded-xl bg-gray-300 shadow-xl">
+          <div className="container items-center flex flex-col space-y-6 p-8 max-w-md rounded-xl bg-gray-900 shadow-xl">
 
             <div className="flex items-center gap-2 max-w-md">
 
